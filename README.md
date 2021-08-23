@@ -13,7 +13,7 @@ _Solicitar_
 
 ### Objetivo
 
-El objetivo será encontrar una función de baja complejidad que describa el comportamiento de las observaciones $`a_{i}`$ con respuesta $b_{i}$.
+El objetivo será encontrar una función de baja complejidad que describa el comportamiento de las observaciones $a_{i}$ con respuesta $b_{i}$.
 
 En este trabajo nos centraremos en una versión general de los modelos afines a trozos con una función de error lineal $||L_{1}||$ y una partición del dominio de modo que resulte linealmente separable en subdominios, notaremos este enfoque como k-PAMF-PLS (k-Piecewise Affine Model Fitting with Pairwise Linear Separability Problem).
 
